@@ -1,3 +1,9 @@
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-Random_Forest-green)
+![Analytics](https://img.shields.io/badge/Analytics-RFM-orange)
+![Scikit Learn](https://img.shields.io/badge/Framework-Scikit_Learn-red)
+![Customer Intelligence](https://img.shields.io/badge/Domain-Customer_Intelligence-purple)
+![Status](https://img.shields.io/badge/Status-Completed-success)
 # 📈 Customer Risk Intelligence Framework
 
 A machine learning-driven customer analytics platform that predicts customer churn, quantifies customer value, estimates revenue at risk, and prioritizes retention actions based on business impact.
